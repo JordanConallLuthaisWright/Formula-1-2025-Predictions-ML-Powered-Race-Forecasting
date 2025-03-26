@@ -2,6 +2,8 @@
 
 Welcome to the F1 Predictions 2025 repository [continue]. This project uses machine learning, FastF1 API data, and historical F1 race results to predict race outcomes for the 2025 Formula 1 season.
 
+---
+
 ## Project Overview
 
 This repository contains a Gradient Boosting Machine Learning model that predicts race results based on past performance, qualifying times, and other structured F1 data. The model leverages:
@@ -51,5 +53,12 @@ Lower MAE values indicate more accurate predictions.
 
 - Incorporate weather conditions as a feature  
 - Add pit stop strategies into the model  
-- Explore deep learning models for improved accuracy  
+- Explore deep learning models for improved accuracy
+
+---
+
+## **Contact & Repository Info**
+- **Author**: Jordan  
+- **Email**: [jordan.c.l.wright@gmail.com](mailto:jordan.c.l.wright@gmail.com)  
+- [GitHub Profile](https://github.com/JordanConallLuthaisWright)
 
