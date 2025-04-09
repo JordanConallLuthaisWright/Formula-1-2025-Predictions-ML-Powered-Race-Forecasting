@@ -58,7 +58,7 @@ Lower MAE values indicate more accurate predictions.
 ---
 
 ## **Contact & Repository Info**
-- **Author**: Jordan  
+- **Author**: Jordan Wright
 - **Email**: [jordan.c.l.wright@gmail.com](mailto:jordan.c.l.wright@gmail.com)  
 - [GitHub Profile](https://github.com/JordanConallLuthaisWright)
 
